@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Scene_03_BOB_DAISY.unity
+  isLoaded: 1
+  isActive: 1
